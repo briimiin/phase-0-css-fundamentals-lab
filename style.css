@@ -2,4 +2,40 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  padding: 10px;
+  }
+  h1{
+    text-align: center;
+  }
+.link{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:grey ;
+}
+.container{
+  text-align: center;
+}
+.caption{
+  text-align: center
+  ;
+  font-size: small;
+}
+.centered{
+  width: 900px;
+  margin:auto;
+}
+.centered{
+  text-align: center;
+}
+.detx{
+  
+
+}
+div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  margin: auto;
+}
 }
